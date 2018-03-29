@@ -27,7 +27,7 @@ The project below uses this repository as a direct dependency.
 
 Name | Status
 ---- | ------
-[DevOps.Build.AppVeyor.AddBuild](https://github.com/CDorst./DevOps.Build.AppVeyor.AddBuild) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst./devops-build-appveyor-addbuild.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst./devops-build-appveyor-addbuild) [![NuGet package status](https://img.shields.io/nuget/v/CDorst..DevOps.Build.AppVeyor.AddBuild.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst..DevOps.Build.AppVeyor.AddBuild)
+[DevOps.Build.AppVeyor.AddBuild](https://github.com/CDorst/DevOps.Build.AppVeyor.AddBuild) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/devops-build-appveyor-addbuild.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/devops-build-appveyor-addbuild) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.DevOps.Build.AppVeyor.AddBuild.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.DevOps.Build.AppVeyor.AddBuild)
 
 ## NuGet
 
@@ -36,7 +36,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-4.0.9
+4.0.10
 
 ## Metaproject
 
